@@ -13,9 +13,10 @@ public class ArrayFunctionsConverting {
         System.out.println(newArray);
 
         //string to int conversion
+//* this is for full commenting.
 
         String[] strArray = {"11","4","56"};
-        int size = str.length();
+        int size = strArray.length;
         int [] arr = new int[size];;
         for(int i=0; i<size; i++) {
             arr[i] = Integer.parseInt(strArray[i]);
