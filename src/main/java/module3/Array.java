@@ -8,6 +8,7 @@ public class Array {
         //Initializing the array with size of
         numbers = new int [5];
 
+
         //Assigning values
         numbers[0] = 10;
         numbers[1] = 20;
