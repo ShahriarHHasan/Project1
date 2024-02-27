@@ -12,7 +12,7 @@ public class StringExample
         System.out.println(ch);
         //this function gives specific character of chosen index
 
-        int a=7;
+        int a=7; //control click the method to see what developers coded about it
         String sub = message.substring(a); //or you can put 7
         System.out.println(sub);
         //gives the letters in the index from chosen index till end
